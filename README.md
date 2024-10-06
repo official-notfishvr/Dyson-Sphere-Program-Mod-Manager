@@ -6,4 +6,5 @@ if you want me to add your mod make a Pull requests or a Issues requests
 bugs:
 
 it just crash
+
 not installing all of the files
