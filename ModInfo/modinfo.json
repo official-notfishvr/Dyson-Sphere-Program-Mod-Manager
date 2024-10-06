@@ -24,6 +24,35 @@
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/GenesisBook-GenesisBook_Experimental-0.3.10002.zip"
   },
   {
+    "name": "NebulaMultiplayerMod",
+    "author": "NebulaModTeam",
+    "version": "0.9.11",
+    "dependencies": [
+      "NebulaMultiplayerModApi",
+      "IlLine",
+      "BulletTime"
+    ],
+    "git_path": "hubastard/nebula",
+    "group": "Gameplay",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerMod-0.9.11.zip"
+  },
+  {
+    "name": "Auxilaryfunction",
+    "author": "blacksnipebiu",
+    "version": "2.8.2",
+    "git_path": "blacksnipebiu/Auxilaryfunction",
+    "group": "Libraries",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/blacksnipebiu-Auxilaryfunction-2.8.2.zip"
+  },
+  {
+    "name": "BulletTime",
+    "author": "starfi5h",
+    "version": "1.5.2",
+    "git_path": "starfi5h/DSP_Mod",
+    "group": "Libraries",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-BulletTime-1.5.2.zip"
+  },
+  {
     "name": "CommonAPI",
     "author": "limoka",
     "version": "1.6.5",
@@ -44,6 +73,14 @@
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/CommonAPI-DSPModSave-1.2.1.zip"
   },
   {
+    "name": "IlLine",
+    "author": "PhantomGamers",
+    "version": "1.0.0",
+    "git_path": "null",
+    "group": "Libraries",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/PhantomGamers-IlLine-1.0.0.zip"
+  },
+  {
     "name": "LDBTool",
     "author": "xiaoye97",
     "version": "3.0.1",
@@ -60,43 +97,6 @@
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/www_Day_Dream-CessilCellsCeaChells-0.3.6.zip"
   },
   {
-    "name": "Auxilaryfunction",
-    "author": "blacksnipebiu",
-    "version": "2.8.2",
-    "git_path": "blacksnipebiu/Auxilaryfunction",
-    "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/blacksnipebiu-Auxilaryfunction-2.8.2.zip"
-  },
-  {
-    "name": "NebulaMultiplayerMod",
-    "author": "NebulaModTeam",
-    "version": "0.9.11",
-    "dependencies": [
-      "NebulaMultiplayerModApi",
-      "IlLine",
-      "BulletTime"
-    ],
-    "git_path": "hubastard/nebula",
-    "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerMod-0.9.11.zip"
-  },
-  {
-    "name": "IlLine",
-    "author": "PhantomGamers",
-    "version": "1.0.0",
-    "git_path": "null",
-    "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/PhantomGamers-IlLine-1.0.0.zip"
-  },
-  {
-    "name": "BulletTime",
-    "author": "starfi5h",
-    "version": "1.5.2",
-    "git_path": "starfi5h/DSP_Mod",
-    "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-BulletTime-1.5.2.zip"
-  },
-  {
     "name": "NebulaMultiplayerModApi",
     "author": "NebulaModTeam",
     "version": "2.0.0",
@@ -105,11 +105,11 @@
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerModApi-2.0.0.zip"
   },
   {
-      "name": "Delivery Slots Tweaks",
-      "author": "starfi5h",
-      "version": "1.5.8",
-      "git_path": "starfi5h/DSP_Mod",
-      "group": "Tweaks / Tools",
-      "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-DeliverySlotsTweaks-1.5.8.zip"
-    }
+    "name": "Delivery Slots Tweaks",
+    "author": "starfi5h",
+    "version": "1.5.8",
+    "git_path": "starfi5h/DSP_Mod",
+    "group": "Tweaks / Tools",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-DeliverySlotsTweaks-1.5.8.zip"
+  }
 ]
