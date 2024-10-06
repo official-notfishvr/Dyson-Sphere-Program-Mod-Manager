@@ -8,49 +8,49 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
   },
   {
-    "name": "CAAP N",
+    "name": "CAAP_N",
     "author": "NordLandeW",
     "version": "1.3.1",
-    "git_path": "NagaseIori/DSPMod-N",
+    "git_path": "https://github.com/NagaseIori/DSPMod-N",
     "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/NordLandeW-CAAP_N-1.3.1.zip"
+    "download_url": "https://thunderstore.io/package/download/NordLandeW/CAAP_N/1.3.1/"
   },
   {
-    "name": "GenesisBook Experimental",
-    "author": "limoka",
+    "name": "GenesisBook_Experimental",
+    "author": "GenesisBook",
     "version": "0.3.10002",
-    "git_path": "Awbugl/ProjectGenesis",
+    "git_path": "https://github.com/Awbugl/ProjectGenesis",
     "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/GenesisBook-GenesisBook_Experimental-0.3.10002.zip"
+    "download_url": "https://thunderstore.io/package/download/GenesisBook/GenesisBook_Experimental/0.3.10002/"
   },
   {
     "name": "NebulaMultiplayerMod",
-    "author": "NebulaModTeam",
+    "author": "nebula",
     "version": "0.9.11",
     "dependencies": [
       "NebulaMultiplayerModApi",
       "IlLine",
       "BulletTime"
     ],
-    "git_path": "hubastard/nebula",
+    "git_path": "https://github.com/hubastard/nebula",
     "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerMod-0.9.11.zip"
+    "download_url": "https://thunderstore.io/package/download/nebula/NebulaMultiplayerMod/0.9.11/"
   },
   {
     "name": "DSPAutoSorter",
     "author": "appuns",
     "version": "1.2.11",
-    "git_path": "appuns/DSPAutoSorter",
+    "git_path": "https://github.com/appuns/DSPAutoSorter",
     "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/appuns-DSPAutoSorter-1.2.11.zip"
+    "download_url": "https://thunderstore.io/package/download/appuns/DSPAutoSorter/1.2.11/"
   },
   {
     "name": "GigaStationsUpdated",
     "author": "kremnev8",
     "version": "2.3.8",
-    "git_path": "kremnev8/DSP-Mods",
+    "git_path": "https://github.com/kremnev8/DSP-Mods/tree/master/Mods/GigaStations",
     "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/kremnev8-GigaStationsUpdated-2.3.8.zip"
+    "download_url": "https://thunderstore.io/package/download/kremnev8/GigaStationsUpdated/2.3.8/"
   },
   {
     "name": "MoreMegaStructure",
@@ -61,33 +61,33 @@
       "DSPModSave",
       "CommonAPI"
     ],
-    "git_path": "jinxOAO/DSPmod_MoreMegaStructures",
+    "git_path": "https://github.com/jinxOAO/DSPmod_MoreMegaStructures",
     "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/jinxOAO-MoreMegaStructure-1.5.8.zip"
+    "download_url": "https://thunderstore.io/package/download/jinxOAO/MoreMegaStructure/1.5.8/"
   },
   {
     "name": "SplitterOverBelt",
     "author": "hetima",
     "version": "1.1.7",
-    "git_path": "hetima/DSP_SplitterOverBelt",
+    "git_path": "https://github.com/hetima/DSP_SplitterOverBelt",
     "group": "Gameplay",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/hetima-SplitterOverBelt-1.1.7.zip"
+    "download_url": "https://thunderstore.io/package/download/hetima/SplitterOverBelt/1.1.7/"
   },
   {
-    "name": "Delivery Slots Tweaks",
+    "name": "DeliverySlotsTweaks",
     "author": "starfi5h",
     "version": "1.5.8",
-    "git_path": "starfi5h/DSP_Mod",
+    "git_path": "https://github.com/starfi5h/DSP_Mod/tree/master/DeliverySlotsTweaks",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-DeliverySlotsTweaks-1.5.8.zip"
+    "download_url": "https://thunderstore.io/package/download/starfi5h/DeliverySlotsTweaks/1.5.8/"
   },
   {
     "name": "DSPModSave",
-    "author": "limoka",
+    "author": "CommonAPI",
     "version": "1.2.1",
-    "git_path": "limoka/DSP-Mods",
+    "git_path": "https://github.com/kremnev8/DSP-Mods/tree/master/Mods/DSPModSave",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/CommonAPI-DSPModSave-1.2.1.zip"
+    "download_url": "https://thunderstore.io/package/download/CommonAPI/DSPModSave/1.2.1/"
   },
   {
     "name": "BlueprintTweaks",
@@ -98,17 +98,17 @@
       "NebulaMultiplayerModApi",
       "CommonAPI"
     ],
-    "git_path": "kremnev8/DSP-Mods",
+    "git_path": "https://github.com/kremnev8/DSP-Mods/tree/master/Mods/BlueprintTweaks",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/kremnev8-BlueprintTweaks-1.6.4.zip"
+    "download_url": "https://thunderstore.io/package/download/kremnev8/BlueprintTweaks/1.6.4/"
   },
   {
     "name": "LSTM",
     "author": "hetima",
     "version": "0.9.2",
-    "git_path": "hetima/DSP_LSTM",
+    "git_path": "https://github.com/hetima/DSP_LSTM",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/hetima-LSTM-0.9.2.zip"
+    "download_url": "https://thunderstore.io/package/download/hetima/LSTM/0.9.2/"
   },
   {
     "name": "UXAssist",
@@ -118,93 +118,93 @@
       "CommonAPI",
       "DSPModSave"
     ],
-    "git_path": "soarqin/DSP_Mods",
+    "git_path": "https://github.com/soarqin/DSP_Mods/tree/master/UXAssist",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/soarqin-UXAssist-1.2.7.zip"
+    "download_url": "https://thunderstore.io/package/download/soarqin/UXAssist/1.2.7/"
   },
   {
     "name": "DSPJapanesePlugin",
     "author": "appuns",
     "version": "1.2.10",
-    "git_path": "appuns/DSPJapanesePlugin",
+    "git_path": "https://github.com/appuns/DSPJapanesePlugin",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/appuns-DSPJapanesePlugin-1.2.10.zip"
+    "download_url": "https://thunderstore.io/package/download/appuns/DSPJapanesePlugin/1.2.10/"
   },
   {
     "name": "CruiseAssist",
-    "author": "tanukinomori",
-    "version": "0.0.37",
-    "git_path": "tanukinomori/DSPMod",
+    "author": "abukaff",
+    "version": "0.0.40",
+    "git_path": "https://github.com/Abukaff/DSPModUpdate",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/tanu-CruiseAssist-0.0.37.zip"
+    "download_url": "https://thunderstore.io/package/download/abukaff/CruiseAssist/0.0.40/"
   },
   {
     "name": "MoreStatInfo",
     "author": "blacksnipebiu",
     "version": "1.5.6",
-    "git_path": "blacksnipebiu/MoreStatInfo",
+    "git_path": "https://github.com/blacksnipebiu/MoreStatInfo",
     "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/blacksnipebiu-MoreStatInfo-1.5.6.zip"
+    "download_url": "https://thunderstore.io/package/download/blacksnipebiu/MoreStatInfo/1.5.6/"
   },
   {
     "name": "Auxilaryfunction",
     "author": "blacksnipebiu",
     "version": "2.8.2",
-    "git_path": "blacksnipebiu/Auxilaryfunction",
+    "git_path": "https://github.com/blacksnipebiu/Auxilaryfunction",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/blacksnipebiu-Auxilaryfunction-2.8.2.zip"
+    "download_url": "https://thunderstore.io/package/download/blacksnipebiu/Auxilaryfunction/2.8.2/"
   },
   {
     "name": "BulletTime",
     "author": "starfi5h",
     "version": "1.5.2",
-    "git_path": "starfi5h/DSP_Mod",
+    "git_path": "https://github.com/starfi5h/DSP_Mod/tree/master/BulletTime",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-BulletTime-1.5.2.zip"
+    "download_url": "https://thunderstore.io/package/download/starfi5h/BulletTime/1.5.2/"
   },
   {
     "name": "CommonAPI",
-    "author": "limoka",
+    "author": "CommonAPI",
     "version": "1.6.5",
     "dependencies": [
       "LDBTool",
       "DSPModSave"
     ],
-    "git_path": "limoka/CommonAPI",
+    "git_path": "https://github.com/kremnev8/CommonAPI",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/CommonAPI-CommonAPI-1.6.5.zip"
+    "download_url": "https://thunderstore.io/package/download/CommonAPI/CommonAPI/1.6.5/"
   },
   {
     "name": "IlLine",
     "author": "PhantomGamers",
     "version": "1.0.0",
-    "git_path": "null",
+    "git_path": null,
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/PhantomGamers-IlLine-1.0.0.zip"
+    "download_url": "https://thunderstore.io/package/download/PhantomGamers/IlLine/1.0.0/"
   },
   {
     "name": "LDBTool",
     "author": "xiaoye97",
     "version": "3.0.1",
-    "git_path": "xiaoye97/DSP_LDBTool",
+    "git_path": "https://github.com/xiaoye97/DSP_LDBTool",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/xiaoye97-LDBTool-3.0.1.zip"
+    "download_url": "https://thunderstore.io/package/download/xiaoye97/LDBTool/3.0.1/"
   },
   {
     "name": "CessilCellsCeaChells",
-    "author": "wwwDayDream",
+    "author": "www_Day_Dream",
     "version": "0.3.6",
-    "git_path": "wwwDayDream/CessilCellsCeaChells",
+    "git_path": "https://github.com/wwwDayDream/CessilCellsCeaChells",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/www_Day_Dream-CessilCellsCeaChells-0.3.6.zip"
+    "download_url": "https://thunderstore.io/package/download/www_Day_Dream/CessilCellsCeaChells/0.3.6/"
   },
   {
     "name": "NebulaMultiplayerModApi",
-    "author": "NebulaModTeam",
+    "author": "nebula",
     "version": "2.0.0",
-    "git_path": "hubastard/nebula",
+    "git_path": "https://github.com/hubastard/nebula",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerModApi-2.0.0.zip"
+    "download_url": "https://thunderstore.io/package/download/nebula/NebulaMultiplayerModApi/2.0.0/"
   },
   {
     "name": "GalacticScale",
@@ -213,24 +213,24 @@
     "dependencies": [
       "CloseError"
     ],
-    "git_path": "Touhma/DSP_Plugins",
+    "git_path": "https://github.com/Touhma/DSP_Plugins",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/Galactic_Scale-GalacticScale-2.15.4.zip"
+    "download_url": "https://thunderstore.io/package/download/Galactic_Scale/GalacticScale/2.15.4/"
   },
   {
     "name": "CloseError",
     "author": "crecheng",
     "version": "1.0.0",
-    "git_path": "null",
+    "git_path": null,
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/crecheng-CloseError-1.0.0.zip"
+    "download_url": "https://thunderstore.io/package/download/crecheng/CloseError/1.0.0/"
   },
   {
-    "name": "Multfuntion",
+    "name": "Multfuntion_mod",
     "author": "blacksnipebiu",
     "version": "3.4.5",
-    "git_path": "blacksnipebiu/Multifunction_mod",
+    "git_path": "https://github.com/blacksnipebiu/Multifunction_mod",
     "group": "Libraries",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/blacksnipebiu-Multfuntion_mod-3.4.5.zip"
+    "download_url": "https://thunderstore.io/package/download/blacksnipebiu/Multfuntion_mod/3.4.5/"
   }
 ]
