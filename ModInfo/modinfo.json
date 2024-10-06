@@ -28,7 +28,7 @@
     "author": "limoka",
     "version": "1.6.5",
     "dependencies": [
-      "xiaoye97-LDBTool",
+      "LDBTool",
       "DSPModSave"
     ],
     "git_path": "limoka/CommonAPI",
@@ -44,7 +44,7 @@
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/CommonAPI-DSPModSave-1.2.1.zip"
   },
   {
-    "name": "xiaoye97-LDBTool",
+    "name": "LDBTool",
     "author": "xiaoye97",
     "version": "3.0.1",
     "git_path": "xiaoye97/DSP_LDBTool",
@@ -71,9 +71,30 @@
     "name": "NebulaMultiplayerMod",
     "author": "NebulaModTeam",
     "version": "0.9.11",
+    "dependencies": [
+      "NebulaMultiplayerModApi",
+      "IlLine",
+      "BulletTime"
+    ],
     "git_path": "hubastard/nebula",
     "group": "Gameplay",
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerMod-0.9.11.zip"
+  },
+  {
+    "name": "IlLine",
+    "author": "PhantomGamers",
+    "version": "1.0.0",
+    "git_path": "null",
+    "group": "Libraries",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/PhantomGamers-IlLine-1.0.0.zip"
+  },
+  {
+    "name": "BulletTime",
+    "author": "starfi5h",
+    "version": "1.5.2",
+    "git_path": "starfi5h/DSP_Mod",
+    "group": "Libraries",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-BulletTime-1.5.2.zip"
   },
   {
     "name": "NebulaMultiplayerModApi",
