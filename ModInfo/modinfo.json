@@ -1,10 +1,19 @@
 [
-  {
-    "name": "CommonAPI",
-    "author": "limoka",
-    "version": "1.6.5",
-    "git_path": "limoka/CommonAPI",
-    "group": "Core",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/CommonAPI-CommonAPI-1.6.5.zip"
-  }
+    {
+      "name": "CommonAPI",
+      "author": "limoka",
+      "version": "1.6.5",
+      "git_path": "limoka/CommonAPI",
+      "group": "Core",
+      "download_url": "https://gcdn.thunderstore.io/live/repository/packages/CommonAPI-CommonAPI-1.6.5.zip"
+    },
+    {
+        "name": "Delivery Slots Tweaks",
+        "author": "starfi5h",
+        "version": "1.5.8",
+        "git_path": "starfi5h/DSP_Mod",
+        "group": "Core",
+        "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-DeliverySlotsTweaks-1.5.8.zip"
+      }
 ]
+  
