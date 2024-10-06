@@ -37,6 +37,14 @@
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerMod-0.9.11.zip"
   },
   {
+    "name": "Delivery Slots Tweaks",
+    "author": "starfi5h",
+    "version": "1.5.8",
+    "git_path": "starfi5h/DSP_Mod",
+    "group": "Tweaks / Tools",
+    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-DeliverySlotsTweaks-1.5.8.zip"
+  },
+  {
     "name": "Auxilaryfunction",
     "author": "blacksnipebiu",
     "version": "2.8.2",
@@ -103,13 +111,5 @@
     "git_path": "hubastard/nebula",
     "group": "Libraries",
     "download_url": "https://gcdn.thunderstore.io/live/repository/packages/nebula-NebulaMultiplayerModApi-2.0.0.zip"
-  },
-  {
-    "name": "Delivery Slots Tweaks",
-    "author": "starfi5h",
-    "version": "1.5.8",
-    "git_path": "starfi5h/DSP_Mod",
-    "group": "Tweaks / Tools",
-    "download_url": "https://gcdn.thunderstore.io/live/repository/packages/starfi5h-DeliverySlotsTweaks-1.5.8.zip"
   }
 ]
