@@ -4,19 +4,15 @@
     "rank" : 0
   },
   {
-    "name" : "Cosmetic",
+    "name" : "Gameplay",
     "rank" : 1
   },
   {
-    "name" : "Gameplay",
+    "name" : "Tweaks / Tools",
     "rank" : 2
   },
   {
-    "name" : "Tweaks / Tools",
-    "rank" : 3
-  },
-  {
     "name" : "Libraries",
-    "rank" : 4
+    "rank" : 3
   }
 ]
